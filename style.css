@@ -7,5 +7,14 @@
   
   .header h1 {
     font-size: 50px;
+    color:#07374A;
+  }
+  .header h3{
+    color: #FFFFFF;
   }
   
+  .card {
+    padding: 10px;
+    text-align: center;
+    background: #07374A;
+  }
